@@ -22,24 +22,27 @@ Stockage via **SQLite**. Interface d’édition **Markdown (SimpleMDE)** avec re
 - Navigateur moderne (CDN pour SimpleMDE, marked, DOMPurify)
 
 ## 📁 Arborescence
+
+```text
 gestion-notes/
 │── index.php
 │── database.sql
 │
 ├── models/
-│ ├── db.php
-│ └── noteModel.php
+│   ├── db.php
+│   └── noteModel.php
 │
 ├── controllers/
-│ └── noteController.php
+│   └── noteController.php
 │
 ├── views/
-│ ├── header.php
-│ ├── footer.php
-│ ├── notes.php
-│ └── form.php
+│   ├── header.php
+│   ├── footer.php
+│   ├── notes.php
+│   └── form.php
 │
 └── public/
+```
 
 ![Capture d’écran de l’application](docs/screenshots/1.png)
 
