@@ -23,7 +23,7 @@ Stockage via **SQLite**. Interface d’édition **Markdown (SimpleMDE)** avec re
 
 ## 📁 Arborescence
 
-```text
+```
 gestion-notes/
 │── index.php
 │── database.sql
